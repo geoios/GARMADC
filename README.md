@@ -1,1 +1,1 @@
-GNSS-A Ranging Model with Acoustic Delay Correc-tions
+GNSS-A Ranging Model with Acoustic Delay Corrections
